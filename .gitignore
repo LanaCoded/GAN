@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+dist/
+build/
+eggs/
+.installed.cfg
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+.ipynb_checkpoints
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+.venv.bak/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+__pycache__
+*.ipynb_checkpoints
+
+# TensorFlow
+checkpoints/
+saved_model/
+logs/
+events.out.tfevents*
+
+# Outputs
+outputs/
+.samples/
+models/
+*.h5
+*.ckpt
+*.pb
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+.venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+.cache
+node_modules/
+docs/_build/
